@@ -1,3 +1,9 @@
+# Name That Pokémon!
+
+This application was built using HTML, CSS, Javascript, and React. The images and Pokémon names were pulled from the [PokéAPI](https://pokeapi.co/api/v2/). Pokémon and Pokémon character names are trademarks of Nintendo.
+
+The objective is to get the highest score, naming the Pokemon from the list of options without missing. Good luck!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
